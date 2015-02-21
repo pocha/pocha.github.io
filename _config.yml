@@ -4,13 +4,13 @@ redcarpet:
   extensions: ["smart"]
 pygments: true
 permalink: /posts/:title
-title: The Title of Your Blog Here
+title: I am Ashish, an IIT Madras grad, a serial but not so succesfull entrepreneur, looking for a job now.
 # Note leave off trailing /
-production_url : http://blogresideshere.com
-description: This is used in the atom feed
+production_url : http://pocha.rocks
+description: Personal site of Ashish Kumar Sharma aka Pocha
 author:
-  name: Joe Blow
-  github: joeblow
-  twitter: joeblow
-  email: joe@blow.com
-  phone: +1 555-867-5309
+  name: Ashish Sharma
+  github: pocha
+  twitter: pocha
+  email: pocha.sharma@gmail.com
+  phone: +91 95 3838 4545
