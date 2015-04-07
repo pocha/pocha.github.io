@@ -1,4 +1,4 @@
-### Software Engineer, Product Manager & High Tech (serial)Entrepreneur since 2005
+### IIT Madras grad from 2005; Software Engineer, Product Manager & High Tech (serial)Entrepreneur since then
 
 I started my career as an algorithm engineer but realized (& eventually moved) to product startups. I had been dabbling with startups since 2008. I started working as a software engineer at Elina Networks, did online freelance for 6 months & then started with my first venture in 2010. After that I founded two more startups & the last startup got seed funding from Kima Ventures (their first investment in India).
 
