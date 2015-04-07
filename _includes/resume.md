@@ -1,4 +1,4 @@
-### Software engineer & high tech serial entrepreneur since 2005
+### Software Engineer, Product Manager & High Tech (serial)Entrepreneur since 2005
 
 I started my career as an algorithm engineer but realized (& eventually moved) to product startups. I had been dabbling with startups since 2008. I started working as a software engineer at Elina Networks, did online freelance for 6 months & then started with my first venture in 2010. After that I founded two more startups & the last startup got seed funding from Kima Ventures (their first investment in India).
 
@@ -9,10 +9,10 @@ Apart from entrepreneurship, my passion lies in sports & music. I am a very cost
 
 My key skills are:
 
-* End to end product development 
-* Metric driven development
-* Optimization freak
-* All-rounder / One man army.
+* End to end product development including conceptualization, ideation, launching, validation, user acquisition, rinse & repeat.
+* Metric/Data driven product evolution/feature discovery.
+* Prioritize features & say No to features that look like low hanging fruits but limited value add.
+* All-rounder / One man army / Can do it all that takes to take a software product off the ground.
 
 Following technologies I have worked with (in decreasing order of expertise):
 
