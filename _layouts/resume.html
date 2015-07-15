@@ -20,11 +20,13 @@
   <div class="container">
    <table>
 	<tr>
-	  <td> <img class="pull-left img-thumbnail" src="/images/me.jpg" style="width:100px"/></td>
+	  <td> <img class="pull-left img-thumbnail" src="/images/me.jpg" style="width:150px"/></td>
 	  <td>&nbsp;</td>
 	  <td>
 	    <h1>{{ site.author.name }}</h1>
-	    <p><strong>{{ site.author.email }} &middot @{{ site.author.twitter }} &middot {{ site.author.phone }}</strong></p>
+	    <p><strong>{{ site.author.email }} &middot {{ site.author.phone }}<br/>
+	    <a href="{{ site.author.linked }}">Linkedin</a>, <a href="{{ site.author.github }}">Github</a>, <a href="{{site.author.twitter}}">Twitter</a><br/>
+	    Current Location: Bangalore, India</strong></p>
 	  </td>
 	</tr>
    </table>
