@@ -52,7 +52,7 @@ Pillion started as yet-another-ride-sharing app but evolved into a whatsapp-grou
 
 **Tech Skills:** Took source code of an existing app from a friend & created Pillion Android app out of it. Picked Android to build the app. Created server side APIs too. **Technologies:** Android, Ruby on Rails. 
 
-**Links** - [Website](http://getpillion.com) | [Mockup version 1]() | [V1 Android code]() | [V1 Rails server code]() | [V2 mockup]()
+**Links** - [Website](http://getpillion.com) | [Mockup version 1](/images/pillion-v1.png) | [V1 Android code](http://github.com/pocha/pillion) | [V1 Rails server code]() | [V2 mockup - 3 screens, scroll to view all](/images/pillion-v2.pdf)
 
 ### Expensio
 **Side project - July 2014 to Aug 2014**
@@ -63,7 +63,7 @@ Android app for better expense sharing with friends
 
 **Tech Skills:** Created just the Android front-end as a validation to show to friends & get feedback. 
 
-**Links-** [V1.0 mockup]() | [First version screenshot]() | [Reddit discussion]()
+**Links-** [V1.0 mockup](/images/expensio.png)
 
 ### CoFounder: Codelearn.org
 **May 2012 - July 2014**
@@ -115,7 +115,7 @@ At Minkle, we built 'different' mobile apps. First was a SMS based browser. Afte
 ## Education
 **2000-2005**
 
-B.Tech (B.S.) & M.Tech in Electrical Engineering from Indian Institute of Technology Madras, India. CGPA - 8/10.
+B.Tech (B.S.) & M.Tech in Electrical Engineering from **Indian Institute of Technology Madras**, India. CGPA - **8/10**.
 
 ## Other Achievements
 
