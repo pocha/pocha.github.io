@@ -31,13 +31,9 @@ cover: false
   </tr>
 </table>
 
-Back in 2021, when I had to relocate to UK, I wanted to drive a car from Bangalore, India to London. But due to covid
-forcing the land borders closure, I ended up doing a solo ride India. But the thought had been planted since then. Fast
-forward to 2023, when I had to come to India, I decided to fulfill the dream. As for the path, I wanted to ride through
-Fjords in Norway. I had attempted this before but had an accident close to London & then had to shelve my plan ([details
-in this post](https://pocha.substack.com/p/uk-ireland-motorbike-trip-part-2)). I had earlier planned to enter France
-from UK & then ride south around coastal area of Portugal, Spain, south of France but then during the quick trip to
-India, I thought, maybe I should complete the pending ride through Norway & changed my plan.
+<p>
+Back in 2021, when I had to relocate to UK, I wanted to drive a car from Bangalore, India to London. But due to covid forcing the land borders closure, I ended up doing a solo ride India. But the thought had been planted since then. Fast forward to 2023, when I had to come to India, I decided to fulfill the dream. As for the path, I wanted to ride through Fjords in Norway. I had attempted this before but had an accident close to London & then had to shelve my plan (<a href="https://pocha.substack.com/p/uk-ireland-motorbike-trip-part-2">details in this post</a>). I had earlier planned to enter France from UK & then ride south around coastal area of Portugal, Spain, south of France but then during the quick trip to India, I thought, maybe I should complete the pending ride through Norway & changed my plan.
+</p>
 
 <img src="/images/europe-asia-plan.png" style="margin-bottom: 0" />
 <p style="font-size: x-small; padding-bottom: 1em">
@@ -51,9 +47,9 @@ India, I thought, maybe I should complete the pending ride through Norway & chan
   >
 </p>
 
-At the time of writing this post, I ended up chaging the path quite a bit. The notable detour is avoiding west
-Kazakhstan in favour of Russia, primarily to avoid the heat. I was scared that if I broke down in 40+ deg heat, it may
-become fatal for me.
+<p>
+At the time of writing this post, I ended up chaging the path quite a bit. The notable detour is avoiding west Kazakhstan in favour of Russia, primarily to avoid the heat. I was scared that if I broke down in 40+ deg heat, it may become fatal for me.
+</p>
 
 <img src="/images/london-india-actual-path.png" style="margin-bottom: 0" />
 <p style="font-size: x-small; padding-bottom: 1em; text-align: center">
@@ -65,14 +61,13 @@ become fatal for me.
   >
 </p>
 
-As visible from the path, I have not completed the ride. My bike is parked at Almaty, Kazakhstan & I have come to India
-(more details on my [instagram post](https://www.instagram.com/p/CwvgMOjK0z1/)). As of now, my plan is to go back next
-summers & complete the ride. As usual, on the road, I wrote blog post of my experience. I got a lot of help from unknown
-people including some police guys in Kazakhstan giving me money :). I had done very little preparation & planning for
-the trip. Spent like a week buying a cheap motorcycle & another week, getting all the accessories. Not to mention, I got
-my Schengen visa first. But then all other visas I figured on the way. All the details are covered in the blog posts
-below. I had lost (actually forgotten) my waist pouch in Kazakhstan & I have not written post after that. So there
-should be more posts that would follow.
+<p>
+As visible from the path, I have not completed the ride. My bike is parked at Almaty, Kazakhstan & I have come to India (more details on my <a href="https://www.instagram.com/p/CwvgMOjK0z1/">instagram post</a>). As of now, my plan is to go back next summers & complete the ride. As usual, on the road, I wrote blog post of my experience. I got a lot of help from unknown
+people including some police guys in Kazakhstan giving me money :).</p> 
+
+<p> I had done very little preparation & planning for the trip. Spent like a week buying a cheap motorcycle & another week, getting all the accessories. Not to mention, I got my Schengen visa first. But then all other visas I figured on the way. All the details are covered in the blog posts
+below. I had lost (actually forgotten) my waist pouch in Kazakhstan & I have not written post after that. So there should be more posts that would follow.
+</p>
 
 <hr />
 
