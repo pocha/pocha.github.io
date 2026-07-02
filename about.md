@@ -1,177 +1,158 @@
 ---
-layout: about
-image: /assets/img/blog/hydejack-9.jpg
+layout: page
+title: About
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-hide_description: true
-redirect_from:
-  - /download/
+  Ashish "Pocha" Sharma — solo motorcyclist and indie developer building Kilvish, TrackFolks,
+  TrackBlood & Watobot. Looking for sponsors to keep building.
+image: /assets/img/logo.jpeg
+last_modified_at: 2026-07-02
+no_link_title: false
+no_excerpt: false
+hide_image: false
+cover: false
 ---
 
-# About
+I'm Ashish, aka **Pocha** — an indie developer who spends half the year shipping small, useful apps
+and the other half riding a motorcycle across continents. This page is a quick tour of both: the
+products I build, and the rides that fund the "why not" behind them.
 
-<!--author-->
+## What I Build
 
-## Hydejack
+I build and self-host a handful of small, focused apps — no VC funding, no growth team, just me
+shipping things I personally needed and figured others might too.
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.lead}
+<table>
+  <tr>
+    <td style="width: 50%">
+      <img style="min-height: 300px; min-width: 220px; width: 100%" src="/assets/img/projects/kilvish-hero.png" />
+    </td>
+    <td style="width: 50%; vertical-align: top; padding-left: 1em">
+      <h3 style="margin-top: 0">Kilvish</h3>
+      <p>
+        <strong>Fintech goes Social &amp; Personal.</strong> A personal-finance Android app for tracking and
+        categorizing expenses together — with family, flatmates, or anyone you split costs with. Custom
+        shared expense "tags", month-wise totals, and UPI expense import with automatic OCR extraction.
+      </p>
+      <p>
+        <a href="https://kilvish.com">kilvish.com</a> &middot;
+        <a href="https://github.com/tamraj-kilvish/kilvish">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-1. this list will be replaced by the toc
-{:toc .large-only}
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding-right: 1em">
+      <h3 style="margin-top: 0">TrackFolks</h3>
+      <p>
+        <strong>Your field team, always connected.</strong> A field-force management app for small and
+        mid-sized teams — sales reps, service technicians, delivery staff — built as an affordable,
+        India-first alternative to tools like Lystloc, Hubstaff, and Trackobit. Live GPS tracking, selfie
+        punch-in, customer visit logging, and real-time manager dashboards.
+      </p>
+      <p>
+        <a href="https://tf.shristigroup.com">tf.shristigroup.com</a> &middot;
+        <a href="https://github.com/shristigroup/agoriya">GitHub</a>
+      </p>
+    </td>
+    <td style="width: 50%">
+      <img style="min-height: 300px; min-width: 220px; width: 100%" src="/assets/img/projects/trackfolks-hero.png" />
+    </td>
+  </tr>
+</table>
 
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+<table>
+  <tr>
+    <td style="width: 50%">
+      <img style="min-height: 300px; min-width: 220px; width: 100%" src="/assets/img/projects/trackblood-hero.png" />
+    </td>
+    <td style="width: 50%; vertical-align: top; padding-left: 1em">
+      <h3 style="margin-top: 0">TrackBlood</h3>
+      <p>
+        <strong>Your health data, finally useful.</strong> Blood reports pile up in folders and PDFs.
+        TrackBlood turns them into a single, private timeline entirely inside your browser — nothing is
+        ever uploaded. Recognises 150+ markers across labs like Thyrocare, SRL, Metropolis, Apollo, and
+        Aarthi Scans, and exports a clean CSV you can hand your doctor or an AI for a second opinion.
+      </p>
+      <p>
+        <a href="https://track-blood.pocha.fyi">track-blood.pocha.fyi</a> &middot;
+        <a href="https://github.com/pocha/rakta-sutra">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Hydejack's cover page on a variety of screen sizes.
-{:.figcaption}
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding-right: 1em">
+      <h3 style="margin-top: 0">Watobot</h3>
+      <p>
+        <strong>Send WhatsApp messages programmatically from your own account.</strong> A free WhatsApp
+        automation API for reminders, scheduled messages, and backend integrations — without needing the
+        official WhatsApp Business API. Server-side scheduling for recurring messages, delivery logs, and
+        a zero-knowledge, AES-256 encrypted design.
+      </p>
+      <p>
+        <a href="https://watobot.xyz">watobot.xyz</a> &middot;
+        <a href="https://github.com/pocha/mudbot">GitHub</a>
+      </p>
+    </td>
+    <td style="width: 50%">
+      <img style="min-height: 300px; min-width: 220px; width: 100%" src="/assets/img/projects/watobot-hero.png" />
+    </td>
+  </tr>
+</table>
 
+## The Journey
 
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+Building indie products is only half the story — the other half is the road. I ride solo,
+long-distance, on a motorcycle, and write about it as I go.
 
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
+<table>
+  <tr>
+    <td style="width: 50%">
+      <img style="min-height: 300px; min-width: 220px; width: 100%" src="/images/europe-india-with-bike.jpeg" />
+    </td>
+    <td style="width: 50%; vertical-align: top; padding-left: 1em">
+      <h3 style="margin-top: 0">London to India (2023)</h3>
+      <p>
+        A solo motorcycle ride from London to India — through Europe, Scandinavia, Turkey, Georgia,
+        Russia, Kazakhstan, Tajikistan, Kyrgyzstan, China & Nepal. 22,000 kms over 150 days (5 months).
+      </p>
+      <p><a href="/solo-world-trip/">Read the full story &rarr;</a></p>
+    </td>
+  </tr>
+</table>
 
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding-right: 1em">
+      <h3 style="margin-top: 0">Central Asia, Russia & Mongolia (2024)</h3>
+      <p>
+        A follow-up solo ride through the Pamir Highway, Russia, Siberia, and Mongolia — chasing
+        remote roads and harder terrain than the year before.
+      </p>
+      <p><a href="/2024-central-asia-russia-mongolia/">Read the full story &rarr;</a></p>
+    </td>
+    <td style="width: 50%">
+      <img style="min-height: 300px; min-width: 220px; width: 100%" src="/images/mangystau-pic.jpg" />
+    </td>
+  </tr>
+</table>
 
+I also did a solo [Pan-India motorcycle trip in 2021](/solo-bike-trip/), which is really where all
+of this started.
 
-## A Personal Site That Won't Disappear
+## Support My Work
 
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
+I build Kilvish, TrackFolks, TrackBlood, and Watobot on my own time and my own dime — hosting,
+OCR/AI APIs, WhatsApp infra, and app store costs all come out of pocket. If one of these apps is
+useful to you, or you just want to support an indie developer who also rides motorcycles across
+continents, here's how to reach out:
 
-Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
+- Email: [gardeniavidesi@gmail.com](mailto:gardeniavidesi@gmail.com)
+- LinkedIn: [linkedin.com/in/thinkingpocha](https://linkedin.com/in/thinkingpocha)
+- GitHub: [github.com/pocha](https://github.com/pocha)
 
-## Download
-
-{% include table.md %}
-
-
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
-
-<!--posts-->
-
-
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
-
-<!--projects-->
-
-
-## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
-
-[![Resume PDF](assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
-
-Front and center page of a print resume generated by Hydejack.
-{:.figcaption}
-
-
-## Just Markdown
-Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
-
-
-## Just Markup
-**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a _plain old web page_ at its core. It works without JavaScript and you can even view it in a text-based browser like `w3m`:
-
-![w3m Screenshot](assets/img/blog/w3m.png){:.tail width="1920" height="1260" loading="lazy"}
-
-The Hydejack blog, as seen by the text browser `w3m`.
-{:.figcaption}
-
-
-## Syntax Highlighting
-**Hydejack** features syntax highlighting, powered by [Rouge].
-
-```html
-<!-- file: `_includes/my-body.html` -->
-<script type="module">
-  document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
-    const supportsCodeHighlights = false; // TBD!!
-  });
-</script>
-```
-
-Code blocks can have a filename and a caption.
-{:.figcaption}
-
-
-## Beautiful Math
-They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
-
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
-Hydejack uses KaTeX to efficiently render math.
-{:.figcaption}
-
-
-## Build an Audience
-The PRO version has built-in support for customizable [Tinyletter] newsletter subscription boxes.
-
-If you are using a different service like MailChimp, you can build a custom newsletter subscription box using [Custom Forms][forms].
-
-
-## Features
-
-{% include features.md %}
-
-
-## Comparison
-
-{% include table.md %}
-
-
-## Get It Now
-
-Use the the form below to purchase Hydejack PRO:
-
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
-
-
-[blog]: /
-[portfolio]: https://hydejack.com/examples/
-[resume]: https://hydejack.com/resume/
-[download]: https://hydejack.com/download/
-[welcome]: https://hydejack.com/
-[forms]: https://hydejack.com/forms-by-example/
-
-[features]: #features
-[news]: #build-an-audience
-[syntax]: syntax-highlighting
-[latex]: #beautiful-math
-[dark]: https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/
-[search]: https://hydejack.com/#_search-input
-[grid]: https://hydejack.com/blog/hydejack/
-
-[lic]: LICENSE.md
-[pro]: licenses/PRO.md
-[docs]: docs/README.md
-[ofln]: docs/advanced.md#enabling-offline-support
-[math]: docs/writing.md#adding-math
-
-[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
-[src]: https://github.com/hydecorp/hydejack
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
-[buy]: https://gum.co/nuOluY
-
-[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
-[rouge]: http://rouge.jneen.net
-[katex]: https://khan.github.io/KaTeX/
-[mathjax]: https://www.mathjax.org/
-[tinyletter]: https://tinyletter.com/
+Sponsorships, feature requests, or just "I used your app and here's what broke" — all welcome.
