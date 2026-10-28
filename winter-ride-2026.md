@@ -62,8 +62,10 @@ Quick peek of my content creation skills: [My journey as content creator]({{ '/p
   - **Zostel:** on the Uttarakhand circuit, your properties at Rishikesh, Mussoorie, Mukteshwar and Nainital overlap with my route. In Rajasthan: Jaisalmer, Sam Desert, Jodhpur, Udaipur, Bundi, Pushkar and Jaipur.
   - **The Hosteller:** on the Uttarakhand circuit: Rishikesh, Dehradun, Chakrata, Mussoorie, Kasar Devi (a short detour from Almora) and Nainital. In Rajasthan: Jodhpur, Udaipur and Jaipur.
   - **GoStops:** on the Uttarakhand circuit: Rishikesh, Mussoorie and Nainital. In Rajasthan: Udaipur and Jaipur.
+  - **Moustache Escapes:** Rajasthan circuit: Jaipur, Jodhpur, Udaipur, Jaisalmer, Pushkar. Uttarakhand circuit: Nainital, Mukteshwar.
+  - **Madpackers:** Rajasthan circuit: Jaipur, Pushkar, Jodhpur, Udaipur. Uttarakhand: Rishikesh
 - **Content partner:** help with reel editing and full-form video editing, specially around effects, animations & map rendering. Reel editing is more important as I intend to create one reel per day on the road & brand specific reels once a week. In return, you get your brand watermark on the videos (except the brand reels) and mention with link in the description of long form videos.
-- **Gear partner:** I will showcase your product with the brand name visible. Gear I can put to use: camera mounts, riding gear and warm clothing. Gears I already have - Dji action cam, insta360, Potesic drone, Dji mic mini. 
+- **Gear partner:** I will showcase your product with the brand name visible. Gear I can put to use: camera mounts, riding gear and warm clothing. Gears I already have - Dji action cam, insta360, Potensic atom drone, Dji mic mini. 
 
 All partners get brand attribution in the description of the long-form videos.
 
