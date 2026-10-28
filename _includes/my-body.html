@@ -158,7 +158,7 @@ Example code for using Matamo as alternative analytics solution.
           L.marker([s[0], s[1]], { icon: icon }).addTo(map).bindPopup(s[2]);
         });
         map.fitBounds(line.getBounds(), { padding: [20, 20] });
-        // Wheel-zoom only after the map has been clicked, so it doesn't hijack page scrolling.
+        /* Wheel-zoom only after the map has been clicked, so it doesn't hijack page scrolling. */
         map.on('focus', function () { map.scrollWheelZoom.enable(); });
         map.on('blur', function () { map.scrollWheelZoom.disable(); });
       });
