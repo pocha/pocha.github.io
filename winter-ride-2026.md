@@ -3,6 +3,7 @@ layout: page
 title: 2026 Winter Ride (proposal)
 description: Three candidate routes for my 2026 winter motorcycle ride, proposal to brands for collaboration.
 permalink: /2026-winter-ride/
+image: /images/altai-pic.jpg
 ---
 
 <figure class="opening-photo">
