@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Delhi Circuit Expedition (Via Meghalaya &amp; Siliguri Bypass)</name>
+    <description>Sequential itinerary waypoints bypassing Bangladesh and Kolkata.</description>
+
+    <!-- Style for Waypoint Pins -->
+    <Style id="waypointPin">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- Waypoints -->
+    <Placemark>
+      <name>1. Delhi</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>77.2090,28.6139,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>2. Rishikesh, Uttarakhand</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>78.0322,30.0869,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>3. Kausani, Uttarakhand</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.6015,29.8436,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>4. Pithoragarh, Uttarakhand</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>80.2182,29.5829,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>5. Banbasa / Mahendranagar (Nepal Border)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>80.2825,28.9868,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>6. Bardia National Park, Nepal</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>81.2829,28.3601,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>7. Tansen, Nepal</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>83.5480,27.8703,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>8. Pokhara, Nepal</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>83.9856,28.2096,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>9. Kathmandu, Nepal</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>85.3240,27.7172,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>10. Sindhulimadi (BP Koirala Hwy), Nepal</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>85.8973,27.2612,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>11. Siliguri / Panitanki, West Bengal</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>88.3629,26.7271,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>12. Gangtok, Sikkim</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>88.6138,27.3389,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>13. Pelling, Sikkim</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>88.2422,27.3174,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>14. Guwahati, Assam</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>91.7362,26.1445,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>15. Dirang, Arunachal Pradesh</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>92.1348,27.0093,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>16. Tawang, Arunachal Pradesh</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>91.8687,27.5861,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>17. Ziro Valley, Arunachal Pradesh</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>93.8286,27.5422,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>18. Kaziranga, Assam</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>93.1711,26.5775,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>19. Kohima / Kisama, Nagaland</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>94.1086,25.6747,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>20. Silchar, Assam</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>92.7926,24.8333,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>21. Aizawl, Mizoram</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>92.7176,23.7307,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>22. Agartala, Tripura</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>91.2868,23.8315,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>23. Silchar, Assam (Transit North)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>92.7926,24.8333,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>24. Shillong, Meghalaya</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>91.8933,25.5788,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>25. Tura / West Garo Hills, Meghalaya</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>90.2029,25.5141,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>26. Siliguri, West Bengal</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>88.3629,26.7271,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>27. Bodh Gaya, Bihar</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>84.9994,24.6951,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>28. Varanasi, Uttar Pradesh</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>82.9739,25.3176,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>29. Lucknow, Uttar Pradesh</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>80.9462,26.8467,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>30. Agra, Uttar Pradesh</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>78.0081,27.1767,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>31. Delhi (End)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>77.2090,28.6139,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Delhi - Rajasthan 14-Day Circuit</name>
+    <description>Sequential waypoints for Kurviger road snapping covering castles, desert dunes, Indo-Pak border, and salt lakes.</description>
+
+    <Style id="waypointPin">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Placemark>
+      <name>1. Delhi (Start)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>77.2090,28.6139,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>2. Mandawa (Shekhawati)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>75.1481,28.0549,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>3. Bikaner (Junagarh Fort)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>73.3119,28.0229,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>4. Jaisalmer Fort</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>70.9167,26.9157,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>5. Tanot Mata Temple</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>70.3377,27.6742,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>6. Bawaliyanwala / BP 609 (Indo-Pak Border)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>70.2185,27.8385,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>7. Longewala War Memorial</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>70.1584,27.5255,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>8. Sam Sand Dunes</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>70.5186,26.8339,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>9. Jodhpur (Mehrangarh Fort)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>73.0243,26.2389,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>10. Om Banna (Bullet Baba) Temple</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>73.1812,25.8672,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>11. Kumbhalgarh Fort</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>73.5828,25.1479,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>12. Ranakpur Jain Temple</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>73.4735,25.1160,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>13. Udaipur City Palace</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>73.7125,24.5854,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>14. Bahubali Hills (Badi Lake)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>73.6514,24.6221,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>15. Chittorgarh Fort</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>74.6469,24.8879,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>16. Bundi (Taragarh Fort)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>75.6411,25.4415,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>17. Pushkar Lake</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>74.5554,26.4897,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>18. Sambhar Salt Lake</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>75.1950,26.9067,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>19. Jaipur (Amer Fort)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>75.7873,26.9124,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>20. Neemrana Fort-Palace</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>76.3858,27.9889,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>21. Delhi (End)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>77.2090,28.6139,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

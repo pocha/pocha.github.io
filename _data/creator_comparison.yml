@@ -1,0 +1,23 @@
+# Average views per subscriber over each creator's latest 10 travel uploads per format.
+# Snapshot as of 2026-10-05. Long-form excludes videos younger than 1 month.
+# Subscriber counts are deliberately not stored here.
+- name: Me
+  handle: iitianbiker
+  me: true
+  long: "0.29"
+  shorts: "1.28"
+- name: Deepranjan Sachan
+  handle: deepranjansachan
+  long: "1.24"
+- name: Wanderda
+  handle: wanderda
+  long: "0.30"
+  shorts: "1.15"
+- name: Meenakshi Das
+  handle: ridersmb
+  long: "0.01"
+  shorts: "0.04"
+- name: Xtreme Moto Adventure
+  handle: XtremeMotoAdventure
+  long: "0.04"
+  shorts: "0.04"

@@ -49,20 +49,18 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title: 2026 Winter Ride (proposal)
+    url: /2026-winter-ride/
   - title: 2024 - Pamir, Russia, Siberia, Mongolia trip
     url: /2024-central-asia-russia-mongolia/
   - title: 2023 - London to Kazakhstan trip
     url: /solo-world-trip/
   - title: 2021 - Pan India trip
     url: /solo-bike-trip/
+  - title: My journey as content creator
+    url: /popular-videos/
   - title: Help A Biker
     url: /help-a-biker/
-  - title: Youtube Vlogs
-    url: https://youtube.com/@pocha_solo_biker
-  - title: Instagram
-    url: https://instagram.com/pocha_solo_biker
-  - title: All blogs
-    url: https://pocha.substack.com
   - title: Linkedin
     url: https://linkedin.com/in/thinkingpocha
 

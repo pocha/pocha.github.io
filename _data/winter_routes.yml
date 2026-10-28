@@ -1,0 +1,401 @@
+# Winter 2026 candidate routes. Geometry lives in assets/data/routes/<key>.json (road-snapped via Valhalla, motorcycle profile).
+- key: uk
+  title: "Uttarakhand Pilgrimage & Hills Circuit"
+  description: "A loop from Delhi through Uttarakhand's holiest places (Gangotri, Kedarnath and Badrinath) and the Kumaon hills, with a Kedarnath trek and time to shoot content along the way."
+  color: "#2f9e44"
+  days: 27
+  stops: 22
+  km: 2500
+  trek: "About 31 km on foot (Gaurikund to Kedarnath and back, roughly 16 km each way), plus an optional short Tungnath hike from Chopta (about 3.5 km each way)."
+  note: "Kedarnath, Gangotri and Badrinath shrines typically close in early-to-mid November, so this circuit is timed to reach them before closure. Road and weather conditions will be checked before the ride."
+  itinerary:
+    - day: 1
+      type: ride
+      route: "Delhi → Rishikesh"
+      km: 220
+      see: "Roorkee and Haridwar on the way, then the Ganga aarti at Rishikesh"
+    - day: 2
+      type: shoot
+      route: "Rishikesh"
+      km: 0
+      note: "Content day: Laxman Jhula, Ganga aarti, riverside cafes"
+      see: "Laxman Jhula, Ram Jhula, Triveni Ghat aarti, riverside cafes"
+    - day: 3
+      type: ride
+      route: "Rishikesh → Chakrata"
+      km: 129
+      see: "The Doon valley, the Ashokan rock edict at Kalsi, forest road up to Chakrata"
+    - day: 4
+      type: ride
+      route: "Chakrata → Mussoorie"
+      km: 78
+      note: "Short day, time to shoot on the way"
+      see: "Tiger Falls and the Deoban forests near Chakrata, then the climb to Mussoorie"
+    - day: 5
+      type: shoot
+      route: "Mussoorie"
+      km: 0
+      note: "Content day: Mall Road, Kempty Falls, Landour"
+      see: "Mall Road, Kempty Falls, Landour, Lal Tibba"
+    - day: 6
+      type: ride
+      route: "Mussoorie → Uttarkashi"
+      km: 167
+      see: "Dhanaulti's deodar forests, Chamba and the Bhagirathi valley"
+    - day: 7
+      type: ride
+      route: "Uttarkashi → Gangotri → Harsil Valley"
+      km: 125
+      legs:
+        - {to: Gangotri, km: 100, type: ride}
+        - {to: Harsil Valley, km: 25, type: ride}
+      note: "Gangotri darshan, overnight at Harsil"
+      see: "Gangnani hot springs, Harsil and Dharali, then Gangotri temple"
+    - day: 8
+      type: shoot
+      route: "Harsil Valley"
+      km: 0
+      note: "Rest and content day: apple orchards, Dharali, Mukhba"
+      see: "Apple orchards, Dharali, Mukhba (Gangotri's winter seat)"
+    - day: 9
+      type: ride
+      route: "Harsil Valley → New Tehri"
+      km: 191
+      see: "Back down the Bhagirathi valley through Uttarkashi and Chamba to New Tehri"
+    - day: 10
+      type: shoot
+      route: "New Tehri"
+      km: 0
+      note: "Rest and content day: Tehri Lake and dam, water sports at Koti Colony"
+      see: "Tehri Lake and dam, water sports at Koti Colony"
+    - day: 11
+      type: ride
+      route: "New Tehri → Guptkashi"
+      km: 153
+      see: "Srinagar (Garhwal) on the Alaknanda, Rudraprayag confluence, Agastyamuni"
+    - day: 12
+      type: trek
+      route: "Guptkashi → Gaurikund → Kedarnath (trek)"
+      km: 33
+      trek_km: 16
+      note: "Trek up about 16 km on foot and stay overnight at Kedarnath (book accommodation ahead)"
+      see: "Sonprayag and Gaurikund, then the trek via Rambara and Linchauli to Kedarnath temple"
+    - day: 13
+      type: trek
+      route: "Kedarnath → Gaurikund (trek) → Guptkashi"
+      km: 33
+      trek_km: 16
+      note: "Morning content at the temple, then trek down about 16 km on foot"
+      see: "Sunrise and morning aarti at Kedarnath, Bhairavnath temple, trek down"
+    - day: 14
+      type: shoot
+      route: "Guptkashi → Chopta"
+      km: 39
+      note: "Short ride, then afternoon shoot and optional Tungnath hike (about 3.5 km each way)"
+      see: "Ukhimath (Kedarnath's winter seat), Chopta meadows, optional Tungnath hike"
+    - day: 15
+      type: ride
+      route: "Chopta → Badrinath"
+      km: 161
+      see: "Gopeshwar, Chamoli, Joshimath and Vishnuprayag on the way to Badrinath"
+    - day: 16
+      type: shoot
+      route: "Badrinath"
+      km: 0
+      note: "Rest and content day: Badrinath temple, Mana village, Tapt Kund"
+      see: "Badrinath temple, Tapt Kund, Mana village, Bhim Pul"
+    - day: 17
+      type: ride
+      route: "Badrinath → Karnaprayag"
+      km: 125
+      see: "Joshimath, Vishnuprayag and Nandaprayag confluences"
+    - day: 18
+      type: ride
+      route: "Karnaprayag → Kausani"
+      km: 107
+      see: "Adi Badri temples and the pine forests of Gwaldam"
+    - day: 19
+      type: shoot
+      route: "Kausani"
+      km: 0
+      note: "Rest and content day: Himalayan panorama, tea gardens, Anasakti Ashram"
+      see: "Himalayan panorama (Trishul, Nanda Devi), tea gardens, Anasakti Ashram"
+    - day: 20
+      type: ride
+      route: "Kausani → Munsiyari"
+      km: 150
+      see: "Baijnath temples, Bageshwar, the Gori valley"
+    - day: 21
+      type: shoot
+      route: "Munsiyari"
+      km: 0
+      note: "Content day: Panchachuli views, Khaliya Top, Tribal Heritage Museum"
+      see: "Panchachuli views, Khaliya Top, Tribal Heritage Museum"
+    - day: 22
+      type: ride
+      route: "Munsiyari → Pithoragarh"
+      km: 139
+      note: "Far-east point of the ride"
+      see: "Birthi Falls, Thal, Didihat"
+    - day: 23
+      type: ride
+      route: "Pithoragarh → Abbott Mount → Binsar"
+      km: 191
+      legs:
+        - {to: Abbott Mount, km: 57, type: ride}
+        - {to: Binsar, km: 134, type: ride}
+      see: "Pithoragarh fort, Abbott Mount's colonial cottages, then Almora and Binsar"
+    - day: 24
+      type: ride
+      route: "Binsar → Mukteshwar → Kainchi Dham"
+      km: 121
+      legs:
+        - {to: Mukteshwar, km: 72, type: ride}
+        - {to: Kainchi Dham, km: 49, type: ride}
+      note: "Shoot at Mukteshwar on the way"
+      see: "Binsar Zero Point, Mukteshwar Dham and Chauli ki Jali, then Kainchi Dham"
+    - day: 25
+      type: shoot
+      route: "Kainchi Dham → Nainital"
+      km: 27
+      note: "Morning at Kainchi Dham, afternoon content at Naini Lake and Mall Road"
+      see: "Kainchi Dham ashram in the morning, then Naini Lake and Mall Road"
+    - day: 26
+      type: shoot
+      route: "Nainital → Jim Corbett"
+      km: 63
+      note: "Short ride, then safari content at Corbett"
+      see: "Kaladhungi, Corbett Falls, jungle safari at Jim Corbett"
+    - day: 27
+      type: ride
+      route: "Jim Corbett → Delhi"
+      km: 260
+      see: "Long plains highway via Moradabad and Hapur back to Delhi"
+  stop_names:
+    - "Delhi (Start)"
+    - "Rishikesh"
+    - "Chakrata (Deoban / Budher Caves)"
+    - "Mussoorie"
+    - "Uttarkashi"
+    - "Gangotri"
+    - "Harsil Valley"
+    - "New Tehri (Tehri Lake)"
+    - "Guptkashi"
+    - "Gaurikund (Kedarnath trek starts)"
+    - "Chopta (Tungnath trek starts)"
+    - "Badrinath"
+    - "Karnaprayag"
+    - "Kausani"
+    - "Munsiyari (Panchachuli Base)"
+    - "Pithoragarh"
+    - "Abbott Mount (Champawat)"
+    - "Binsar Wildlife Sanctuary"
+    - "Mukteshwar"
+    - "Kainchi Dham (Neem Karoli Baba Ashram)"
+    - "Nainital"
+    - "Jim Corbett National Park (Ramnagar)"
+    - "Delhi (End)"
+- key: rj
+  title: "Rajasthan Circuit"
+  description: "A desert-and-forts loop from Delhi: Jaisalmer, the Tanot and Longewala border posts, Sam dunes, Jodhpur, Udaipur, Chittorgarh, Pushkar and Jaipur, on mostly flat roads."
+  color: "#e8590c"
+  days: 20
+  stops: 20
+  km: 2700
+  itinerary:
+    - day: 1
+      type: ride
+      route: "Delhi → Mandawa"
+      km: 246
+      note: "Shekhawati havelis: shoot the painted walls in the evening light"
+      see: "Shekhawati's painted havelis at Mandawa"
+    - day: 2
+      type: ride
+      route: "Mandawa → Bikaner"
+      km: 188
+      see: "Desert highway through Churu and Ratangarh into Bikaner"
+    - day: 3
+      type: shoot
+      route: "Bikaner"
+      km: 0
+      note: "Content day: Junagarh Fort, Karni Mata Temple (Deshnok)"
+      see: "Junagarh Fort, Karni Mata Temple at Deshnok, Lalgarh Palace"
+    - day: 4
+      type: ride
+      route: "Bikaner → Jaisalmer"
+      km: 329
+      see: "Long desert highway through Phalodi and Pokhran into Jaisalmer"
+    - day: 5
+      type: shoot
+      route: "Jaisalmer"
+      km: 0
+      note: "Content day: Jaisalmer Fort, Gadisar Lake, havelis, sunset"
+      see: "Jaisalmer Fort, Patwon Ki Haveli, Gadisar Lake, sunset at Bada Bagh"
+    - day: 6
+      type: ride
+      route: "Jaisalmer → Tanot → Bawaliyanwala → Longewala → Sam Dunes"
+      km: 333
+      legs:
+        - {to: "Tanot", km: 136, type: ride}
+        - {to: "Bawaliyanwala", km: 30, type: ride}
+        - {to: "Longewala", km: 53, type: ride}
+        - {to: "Sam Dunes", km: 114, type: ride}
+      note: "Border area near Tanot and BP 609: check permit requirements before the ride. Overnight at a desert camp at Sam"
+      see: "Tanot Mata Temple, the BP 609 border view, Longewala War Memorial, then Sam dunes"
+    - day: 7
+      type: shoot
+      route: "Sam Dunes"
+      km: 0
+      note: "Content day: dunes at sunrise and sunset, camel safari, desert camp"
+      see: "Dunes at sunrise and sunset, camel safari, desert camp"
+    - day: 8
+      type: ride
+      route: "Sam Dunes → Jodhpur"
+      km: 326
+      see: "Long desert highway back east to the blue city"
+    - day: 9
+      type: shoot
+      route: "Jodhpur"
+      km: 0
+      note: "Content day: Mehrangarh Fort, Jaswant Thada, the blue old city"
+      see: "Mehrangarh Fort, Jaswant Thada, Clock Tower and Sardar Market"
+    - day: 10
+      type: ride
+      route: "Jodhpur → Om Banna → Kumbhalgarh"
+      km: 186
+      legs:
+        - {to: "Om Banna", km: 49, type: ride}
+        - {to: "Kumbhalgarh", km: 137, type: ride}
+      note: "Stop at the Om Banna (Bullet Baba) temple on the way"
+      see: "Om Banna (Bullet Baba) temple, then the Aravalli road to Kumbhalgarh"
+    - day: 11
+      type: ride
+      route: "Kumbhalgarh → Ranakpur → Udaipur"
+      km: 128
+      legs:
+        - {to: "Ranakpur", km: 34, type: ride}
+        - {to: "Udaipur", km: 94, type: ride}
+      note: "Shoot at Kumbhalgarh Fort and the Ranakpur Jain Temple on the way"
+      see: "Kumbhalgarh Fort and its long wall, Ranakpur Jain Temple, Aravalli road into Udaipur"
+    - day: 12
+      type: shoot
+      route: "Udaipur"
+      km: 0
+      note: "Content day: City Palace, Lake Pichola, old city"
+      see: "City Palace, Lake Pichola, Jagmandir, old city lanes"
+    - day: 13
+      type: ride
+      route: "Udaipur → Bahubali Hills → Chittorgarh"
+      km: 153
+      legs:
+        - {to: "Bahubali Hills", km: 10, type: ride}
+        - {to: "Chittorgarh", km: 143, type: ride}
+      note: "Sunrise at Bahubali Hills (Badi Lake), then Chittorgarh Fort"
+      see: "Sunrise at Bahubali Hills (Badi Lake), then Chittorgarh Fort"
+    - day: 14
+      type: ride
+      route: "Chittorgarh → Bundi"
+      km: 156
+      see: "Hadoti plateau roads into Bundi"
+    - day: 15
+      type: shoot
+      route: "Bundi"
+      km: 0
+      note: "Content day: Taragarh Fort, stepwells, painted palace"
+      see: "Taragarh Fort, Raniji ki Baori, Bundi Palace murals, Nawal Sagar"
+    - day: 16
+      type: ride
+      route: "Bundi → Pushkar"
+      km: 229
+      see: "Ajmer and Ana Sagar on the way to Pushkar"
+    - day: 17
+      type: shoot
+      route: "Pushkar"
+      km: 0
+      note: "Content day: Pushkar Lake ghats, Brahma Temple, bazaar"
+      see: "Pushkar Lake ghats, Brahma Temple, Savitri Temple ropeway, bazaar"
+    - day: 18
+      type: ride
+      route: "Pushkar → Sambhar Lake → Jaipur"
+      km: 178
+      legs:
+        - {to: "Sambhar Lake", km: 108, type: ride}
+        - {to: "Jaipur", km: 70, type: ride}
+      note: "Salt flats at Sambhar Lake on the way"
+      see: "Sambhar Salt Lake flats on the way to the pink city"
+    - day: 19
+      type: shoot
+      route: "Jaipur"
+      km: 0
+      note: "Content day: Amer Fort, City Palace, Hawa Mahal"
+      see: "Amer Fort, City Palace, Hawa Mahal, Jantar Mantar, Nahargarh sunset"
+    - day: 20
+      type: ride
+      route: "Jaipur → Neemrana → Delhi"
+      km: 280
+      legs:
+        - {to: "Neemrana", km: 148, type: ride}
+        - {to: "Delhi", km: 132, type: ride}
+      note: "Coffee stop at Neemrana Fort-Palace, then back to Delhi"
+      see: "Neemrana Fort-Palace on the highway back to Delhi"
+  stop_names:
+    - "Delhi (Start)"
+    - "Mandawa (Shekhawati)"
+    - "Bikaner (Junagarh Fort)"
+    - "Jaisalmer Fort"
+    - "Tanot Mata Temple"
+    - "Bawaliyanwala / BP 609 (Indo-Pak Border)"
+    - "Longewala War Memorial"
+    - "Sam Sand Dunes"
+    - "Jodhpur (Mehrangarh Fort)"
+    - "Om Banna (Bullet Baba) Temple"
+    - "Kumbhalgarh Fort"
+    - "Ranakpur Jain Temple"
+    - "Udaipur City Palace"
+    - "Bahubali Hills (Badi Lake)"
+    - "Chittorgarh Fort"
+    - "Bundi (Taragarh Fort)"
+    - "Pushkar Lake"
+    - "Sambhar Salt Lake"
+    - "Jaipur (Amer Fort)"
+    - "Neemrana Fort-Palace"
+    - "Delhi (End)"
+- key: nepal-ne
+  title: "Nepal & Northeast India Expedition"
+  description: "Uttarakhand into Nepal (Bardia, Pokhara, Kathmandu), Sikkim, Assam, Arunachal, Nagaland, Mizoram, Tripura and Meghalaya, returning via Bihar and Uttar Pradesh. Bypasses Bangladesh."
+  color: "#1c7ed6"
+  days: 60
+  stops: 30
+  km: 8400
+  stop_names:
+    - "Delhi"
+    - "Rishikesh, Uttarakhand"
+    - "Kausani, Uttarakhand"
+    - "Pithoragarh, Uttarakhand"
+    - "Banbasa / Mahendranagar (Nepal Border)"
+    - "Bardia National Park, Nepal"
+    - "Tansen, Nepal"
+    - "Pokhara, Nepal"
+    - "Kathmandu, Nepal"
+    - "Sindhulimadi (BP Koirala Hwy), Nepal"
+    - "Siliguri / Panitanki, West Bengal"
+    - "Gangtok, Sikkim"
+    - "Pelling, Sikkim"
+    - "Guwahati, Assam"
+    - "Dirang, Arunachal Pradesh"
+    - "Tawang, Arunachal Pradesh"
+    - "Ziro Valley, Arunachal Pradesh"
+    - "Kaziranga, Assam"
+    - "Kohima / Kisama, Nagaland"
+    - "Silchar, Assam"
+    - "Aizawl, Mizoram"
+    - "Agartala, Tripura"
+    - "Silchar, Assam (Transit North)"
+    - "Shillong, Meghalaya"
+    - "Tura / West Garo Hills, Meghalaya"
+    - "Siliguri, West Bengal"
+    - "Bodh Gaya, Bihar"
+    - "Varanasi, Uttar Pradesh"
+    - "Lucknow, Uttar Pradesh"
+    - "Agra, Uttar Pradesh"
+    - "Delhi (End)"

@@ -2,3 +2,232 @@
 // .sidebar a {
 //   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
 // }
+
+.sidebar-nav {
+  text-align: left;
+}
+
+.video-cards {
+  --thumb-h: 15rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem 1rem;
+  margin: 2rem 0;
+}
+
+.video-card {
+  display: block;
+  width: calc(var(--thumb-h) * 9 / 16);
+  max-width: 100%;
+  color: inherit;
+  text-decoration: none;
+  border: 0;
+
+  &:hover .video-card-thumb {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+    transform: translateY(-2px);
+  }
+}
+
+// Long-form videos keep their native 16:9 shape at the same height.
+.video-card-long {
+  width: calc(var(--thumb-h) * 16 / 9);
+}
+
+.video-card-thumb {
+  aspect-ratio: 9 / 16;
+  overflow: hidden;
+  border-radius: 10px;
+  background: #000;
+  transition: box-shadow .15s, transform .15s;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.video-card-long .video-card-thumb {
+  aspect-ratio: 16 / 9;
+}
+
+.video-card-title {
+  margin-top: .5rem;
+  font-weight: bold;
+  font-size: .9em;
+  line-height: 1.3;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.video-card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: .5rem;
+  margin-top: .25rem;
+  font-size: .75em;
+  opacity: .85;
+}
+
+.provider-icon {
+  flex: none;
+  width: 1.4em;
+  height: 1.4em;
+  fill: currentColor;
+}
+.provider-icon-youtube { color: #e62117; }
+.provider-icon-instagram { color: #c13584; }
+
+.engagement {
+  margin: 2rem 0;
+  padding: 1rem 1.25rem;
+  border-radius: 10px;
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  background: rgba(128, 128, 128, 0.07);
+}
+
+.chart { margin-top: 1.25rem; }
+
+.chart-label {
+  margin-bottom: .4rem;
+  font-size: .75em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  opacity: .7;
+}
+
+.chart-row {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin: .35rem 0;
+  padding: .25rem .4rem;
+  border-radius: 8px;
+  --bar: hsl(var(--hue), 70%, 42%);
+}
+
+.chart-row-me {
+  background: rgba(128, 128, 128, 0.14);
+  outline: 1px solid rgba(128, 128, 128, 0.45);
+}
+
+.chart-who {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  flex: 0 0 11rem;
+  min-width: 0;
+  color: inherit;
+  text-decoration: none;
+  border: 0;
+  font-size: .85em;
+  line-height: 1.2;
+
+  img {
+    flex: none;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+}
+
+.chart-row-me .chart-who { font-weight: bold; }
+
+.chart-track {
+  flex: 1;
+  height: 1rem;
+  border-radius: .5rem;
+  background: rgba(128, 128, 128, 0.15);
+  overflow: hidden;
+}
+
+.chart-bar {
+  height: 100%;
+  min-width: 3px;
+  border-radius: .5rem;
+  background: var(--bar);
+}
+
+.chart-value {
+  flex: 0 0 3.2rem;
+  text-align: right;
+  font-weight: bold;
+  color: var(--bar);
+}
+
+@media (max-width: 40em) {
+  .chart-row { flex-wrap: wrap; }
+  .chart-who { flex-basis: 100%; }
+  .chart-track { flex: 1; }
+}
+
+.engagement-note { margin: 1rem 0 0; font-size: .75em; opacity: .8; }
+
+.route-map {
+  height: 28rem;
+  max-height: 75vh;
+  margin: 1rem 0;
+  border-radius: 10px;
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  background: rgba(128, 128, 128, 0.1);
+  z-index: 0;
+
+  .leaflet-container { font: inherit; }
+}
+
+.route-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+}
+
+.route-stops {
+  margin-bottom: 2.5rem;
+
+  ol { columns: 2 14rem; margin-top: .5rem; }
+
+  // Numbers match the map pins: Delhi is the start (S), then 1, 2, 3...
+  li:first-child { list-style-type: "S. "; }
+}
+
+.route-note { font-size: .8em; opacity: .8; }
+
+
+
+
+
+
+.itinerary-list {
+  list-style: none;
+  margin: .75rem 0 0;
+  padding: 0;
+
+  font-size: .8em;
+  line-height: 1.4;
+
+  li { margin: 0 0 .45rem; break-inside: avoid; }
+
+  @media (min-width: 50em) { columns: 2; column-gap: 2rem; }
+}
+
+.opening-photo {
+  margin: 0 0 1.5rem;
+
+  img {
+    display: block;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+  }
+
+  figcaption { margin-top: .5rem; font-size: .8em; opacity: .75; text-align: center; }
+}

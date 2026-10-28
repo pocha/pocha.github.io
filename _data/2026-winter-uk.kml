@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Delhi - Uttarakhand Pilgrimage &amp; Hills Circuit</name>
+    <description>Sequential waypoints for Kurviger road snapping: Rishikesh, Chakrata, Mussoorie, Uttarkashi, Gangotri, New Tehri, Kedarnath (Gaurikund trek), Tungnath (Chopta trek), Badrinath, Karnaprayag, Kausani, Munsiyari, Pithoragarh, Abbott Mount, Binsar, Mukteshwar, Kainchi Dham, Nainital and Jim Corbett.</description>
+
+    <Style id="waypointPin">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Placemark>
+      <name>1. Delhi (Start)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>77.2090,28.6139,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>2. Rishikesh</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>78.0322,30.0869,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>3. Chakrata (Deoban / Budher Caves)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>77.8687,30.7016,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>4. Mussoorie</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>78.0664,30.4598,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>5. Uttarkashi</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>78.4354,30.7268,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>6. Gangotri</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>78.9398,30.9947,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>7. Harsil Valley</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>78.7450,31.0380,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>8. New Tehri (Tehri Lake)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>78.4320,30.3780,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>9. Guptkashi</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.0770,30.5240,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>10. Gaurikund (Kedarnath trek starts)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.0235,30.6530,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>11. Chopta (Tungnath trek starts)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.1553,30.4729,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>12. Badrinath</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.4938,30.7433,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>13. Karnaprayag</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.2150,30.2630,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>14. Kausani</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.6015,29.8436,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>15. Munsiyari (Panchachuli Base)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>80.2082,30.0673,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>16. Pithoragarh</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>80.2182,29.5829,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>17. Abbott Mount (Champawat)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>80.0881,29.4219,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>18. Binsar Wildlife Sanctuary</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.7544,29.7022,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>19. Mukteshwar</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.6472,29.4750,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>20. Kainchi Dham (Neem Karoli Baba Ashram)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.5180,29.4400,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>21. Nainital</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.4542,29.3919,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>22. Jim Corbett National Park (Ramnagar)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>79.1286,29.3947,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>23. Delhi (End)</name>
+      <styleUrl>#waypointPin</styleUrl>
+      <Point><coordinates>77.2090,28.6139,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
