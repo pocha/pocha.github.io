@@ -16,7 +16,7 @@ Below are 3 suggested routes that I am planning to ride a motorbike on. I will p
 - **Brands I am looking for:** travel partner (bike provider), stay partner (hostels on the route) and food partner (restaurants on the route), whom I can cover in my vlogs.
 - **Content cadence:** 1 reel every 2 day on the road (realtime) and 1 long-form video for every 7 days on the road. 
 - **What I can offer:** a dedicated reel/short for your channel once a week of my journey, coverage in long-form videos. For stay partners, can do a drone shot of the establishment if it make sense. Check my [drone video of a homestay in Shimoga next to Tunga river](https://www.instagram.com/iitianbiker/reel/DYIFpx_TWm3/)
-- **What I am looking for:** brands with a social media presence who are open to be reel collaborator (special preference to the ones that would like to run a story about my ride on their newsletter), willing to offer support in cash, kind or both. Can also offer explicit mention in long form videos ("video sponsored by xxx") in lieu of cash support.
+- **What I am looking for:** brands with a social media presence who are open to be reel collaborator (special preference to the ones that would like to run a story about my ride on their newsletter). Seeking partnership support via gear, complimentary rental-bike/fueld/stay, or sponsorship to offset production and logistics costs. Can also offer explicit mention in long form videos ("video sponsored by xxx") in lieu of cash support although this is my least preference. 
 
 Quick peek of my content creation skills: [My journey as content creator]({{ '/popular-videos/' | relative_url }}).
 
